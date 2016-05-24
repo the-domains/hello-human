@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Hello Human]]></title>
         <description><![CDATA[Hello Human]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hello-human/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 00:49:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 00:49:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hello-human/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Light Phone: Designed for Disconnecting]]></title>
+            <description><![CDATA[<article><h1>The Light Phone: Designed for Disconnecting</h1><p>Phone addiction is real-as evidenced by a quick glance down the street, in the subway, even at the dinner table-and is one of the reasons why Apple developed a watch: so we would look at our screens less and be present more. For some, however, a smartwatch isn't enough-it still leaves room for fiddling and distraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83d0f5ce299ad3d7f079d449896c88dcc2ec48b8.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/the-light-phone-kickstarter-minimalist-phone-for-disconnecting</link>
+            <guid isPermaLink="false">5f73688a-7ef1-4fbe-9b3a-29f885b52ac9</guid>
+            <pubDate>Tue, 24 May 2016 00:49:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Tesla Will Destroy the Automobile Industry]]></title>
             <description><![CDATA[<article><h1>Why Tesla Will Destroy the Automobile Industry</h1><p>If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967786c4c9a099ae3d4e342800c9901098d0268b.jpg"></article>]]></description>
