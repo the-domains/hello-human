@@ -1,0 +1,14 @@
+layout_spectrum: 0.10700625879690051
+typography_spectrum: 0.283722328254953
+color:
+  brandStrength: 0.5357250277884305
+  lightness: 0.12452788045629859
+  saturation: 0.36880101915448904
+  rhythmicContrast: 0.3120706246700138
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Hello Human
